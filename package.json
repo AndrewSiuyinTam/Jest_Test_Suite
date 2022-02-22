@@ -1,0 +1,22 @@
+{
+  "name": "jest_test_suite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewSiuyinTam/Jest_Test_Suite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewSiuyinTam/Jest_Test_Suite/issues"
+  },
+  "homepage": "https://github.com/AndrewSiuyinTam/Jest_Test_Suite#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
